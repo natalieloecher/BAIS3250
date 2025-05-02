@@ -1,0 +1,17 @@
+Field,Type,Description
+City,object,Location
+Date,object,"Date of the record (YYYY,MM,DD)"
+Temp Max (°F),float64,Maximum temperature that day (°F)
+Temp Min (°F),float64,Minimum temperature that day (°F)
+Avg Temp (°F),float64,Temperature that day (°F)
+Feels Like Temp (°F),float64,'Feels Like' temperature that day (°F)
+Humidity (%),float64,Humidity percentage in the air
+Precipitation (in),float64,Precipitation amount in inches
+Snow (in),float64,Snow amount in inches
+Snow Depth (in),float64,Snow depth on ground in inches
+Wind Speed (mph),float64,Wind speed that day (mph)
+Cloud Cover (%),float64,Percentage of cloud covered sky
+Visibility (mi),float64,Distance that can be seen in miles
+UV Index,int64,Strength of ultraviolet radiation from the sun
+Severe Weather Risk,int64,Chance of severe weather
+Conditions,object,"General weather condition (ex, Sunny, Rainy)"
