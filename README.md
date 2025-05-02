@@ -1,2 +1,2 @@
-# BAIS3250
+# Project
 Sample repository 
