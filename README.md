@@ -10,7 +10,7 @@ This repository provides a structured starting point for data wrangling projects
 |--------------|-----------------------------------------------------------------------------|
 | `data/`      | Contains raw and cleaned datasets (CSV files, scraped data, etc.)           |
 | `notebooks/` | Jupyter Notebooks for cleaning, analysis, and visualizations                |
-| `outputs/`   | Final figures, charts, and results                                          |        |
+| `outputs/`   | Final figures, charts, and reports                                          |        |
 
 ---
 
